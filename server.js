@@ -43,7 +43,7 @@ app.get("/", (req, res) => {
         <p style="font-size: 16px;"><strong>Class section:</strong> BA 4102</p>
         
         <p style="margin-top: 20px; font-style: italic; color: #555;">
-          “Your future is created by what you do today, not tomorrow.” — Robert T. Kiyosaki
+          “Your future is created by what you do today, not tomorrow.”   — Robert T. Kiyosaki
         </p>
       </div>
     </div>
